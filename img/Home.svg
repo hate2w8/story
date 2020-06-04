@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Home" transform="translate(-120 -40)">
+    <rect id="Base" width="40" height="40" transform="translate(120 40)" fill="#049372"/>
+    <image id="home-2" data-name="home" width="24" height="19" transform="translate(128 51)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAATCAYAAACKsM07AAAABHNCSVQICAgIfAhkiAAAAUZJREFUOE+t1L8rRnEUx/HXM5htisniL6BkMigkyaAMiEgsJsogKVEGFgbKjxIpA2GQRdltSpnkD7CZRD366rl1Xff5/Zztfu/5fN73fM+5J5PNZpUR26jHeKmaTBmAPczkjC8wVAqkVMAdehKGj+jCRyFQMUATbtCax+QN/XjOBykE6MAVGopcxRcGcZuWlw8wgOtS7jiWM42DpCYNMInDMs2j9BWsxrVJwAYWKzSPZEeYih7igBOMVmkeye/Ri+8AaMclwsTUOvoCIIxZN17RhpEqKWGsQwXNeEr2oBMPVQLCB56l9SCchR6EXiTjHS+oy734RAsaU3IXsFUu4M9k5MRrWKoV4BgTCbN8I11RBacYSwA2MV+rCmoGCH/gv32S20thocVjF7MpFSwj9Oc3kmM6jP0U0TnCMovHOuZSckPjd6LzH4akcoSR1wbDAAAAAElFTkSuQmCC"/>
+  </g>
+</svg>

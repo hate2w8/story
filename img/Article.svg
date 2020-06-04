@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Article" transform="translate(-460 -648)">
+    <rect id="Base" width="40" height="40" transform="translate(460 648)" fill="#049372"/>
+    <path id="Article_Icon" data-name="Article Icon" d="M485,677H474a1,1,0,0,1-1-1V661a1,1,0,0,1,1-1h11a1,1,0,0,1,1,1v15A1,1,0,0,1,485,677Zm-9.5-5.03a.5.5,0,0,0,0,1h5a.5.5,0,0,0,0-1Zm0-3a.5.5,0,0,0,0,1h8a.5.5,0,1,0,0-1Zm0-3a.5.5,0,0,0,0,1h8a.5.5,0,1,0,0-1Zm0-3a.5.5,0,0,0,0,1h8a.5.5,0,1,0,0-1Z" fill="#fff"/>
+  </g>
+</svg>
